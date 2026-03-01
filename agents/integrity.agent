@@ -1,0 +1,6 @@
+# Integrity Agent
+
+- Blockchain-based credential verification.
+- Smart contract interface simulation.
+- Proctoring integration hooks.
+- Interface: `verify_credentials(candidate_id: str, data: dict) -> verified_status: bool`

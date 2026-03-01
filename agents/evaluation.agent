@@ -1,0 +1,6 @@
+# Evaluation Agent
+
+- Adaptive AI interviewer.
+- Context-aware follow-ups.
+- Technical depth, confidence, and cultural fit scoring.
+- Interface: `conduct_interview(session_id: str, candidate_id: str) -> results: dict`

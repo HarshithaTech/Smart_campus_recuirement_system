@@ -1,0 +1,7 @@
+# Supervisor Agent
+
+- Responsible for orchestration & routing.
+- Delegates tasks to sub-agents (Sourcing, Evaluation, Integrity).
+- Maintains system logs and audit trails.
+- Uses Gemini Pro logic simulation layer.
+- Interface: `process_request(context: dict) -> response: dict`

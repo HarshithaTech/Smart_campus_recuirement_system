@@ -1,0 +1,6 @@
+# Sourcing Agent
+
+- Resume parsing via NLP.
+- Embedding generation.
+- Vector similarity search (pgvector).
+- Interface: `source_candidates(job_id: str, resumes: list) -> matches: list`

@@ -1,0 +1,6 @@
+# Architecture Rule
+
+- Multi-Agent Supervisor Pattern: Supervisor delegates to Data Integrity, Sourcing, and Evaluation agents.
+- RAPS Framework integration.
+- Strictly modular design: Each agent has its own module and clean interface.
+- No direct database access outside of the repository layer.

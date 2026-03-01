@@ -1,0 +1,7 @@
+# Tech Stack Rule
+
+- Backend: python 3.10.10 (Target: 3.14+), FastAPI, Async endpoints, Pydantic v3 (strict).
+- DB: PostgreSQL + pgvector.
+- Frontend: Next.js 16, React 19, TypeScript (strict), SSR enabled.
+- Security: JWT, RBAC, Rate limiting.
+- LLM: Gemini Flash/Pro.

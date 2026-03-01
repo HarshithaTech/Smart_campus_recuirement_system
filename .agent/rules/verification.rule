@@ -1,0 +1,6 @@
+# Verification Rule
+
+- All UI changes must be recorded via browser automation.
+- All agent decisions must be logged and auditable.
+- API tests must be run using pytest before marking tasks as complete.
+- Record student onboarding, resume upload, matching, and interview flows.
