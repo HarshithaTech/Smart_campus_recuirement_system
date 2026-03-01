@@ -67,4 +67,4 @@ SmartHire is a state-of-the-art recruitment platform built on an **Agent-First a
 ```
 
 ---
-Built with ❤️ by the SmartHire Team (2026)
+Built by Harshitha K S (2026)
